@@ -16,3 +16,6 @@ This middle layer is referred to as the kernel. Basically the kernel virtualizes
 
 ![](https://media.geeksforgeeks.org/wp-content/uploads/Hardware_Virtualization.png)
 
+
+Some proud girls
+
